@@ -17,6 +17,10 @@ function App() {
         >
           Learn React
         </a>
+
+        <h1>
+            I like pizza!
+        </h1>
       </header>
     </div>
   );
